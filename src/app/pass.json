@@ -1,0 +1,24 @@
+{
+    "passTypeIdentifier": "your.pass.type.identifier",
+    "formatVersion": 1,
+    "organizationName": "Amgen",
+    "teamIdentifier": "Z3294SRLVK",
+    "serialNumber": "1A122D74B9B8DEF6E0F4F499A0DD6D30",
+    "description": "My Pass",
+    "boardingPass": {
+      "headerFields": [
+        {
+          "key": "departure-gate",
+          "label": "Departure Gate",
+          "value": "A12"
+        }
+      ],
+      "primaryFields": [
+        {
+          "key": "flight-number",
+          "label": "Flight",
+          "value": "ABCD"
+        }
+      ]
+    }
+  }
